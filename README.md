@@ -21,8 +21,14 @@ O **LocalGPT Studio** é uma aplicação web Full Stack projetada para executar 
 
 Com identidade visual autoral (*Obsidian & Terracotta Studio*), a aplicação oferece baixa latência via streaming assíncrono, total privacidade de dados (zero chamadas externas ou chaves de API pagas) e experiência de usuário voltada para desenvolvedores.
 
-<!-- Caso tenha adicionado o print na pasta docs, ele aparecerá automaticamente abaixo -->
-![Preview da Interface](docs/preview.png)
+### Preview da Interface
+
+<p align="center">
+  <img src="docs/captura1.png" alt="Interface LocalGPT Studio - Captura 1" width="100%" />
+</p>
+<p align="center">
+  <img src="docs/captura2.png" alt="Interface LocalGPT Studio - Captura 2" width="100%" />
+</p>
 
 ---
 
